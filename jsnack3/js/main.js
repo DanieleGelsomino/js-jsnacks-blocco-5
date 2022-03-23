@@ -10,7 +10,4 @@ function reverse(string) {
   return string.split("").reverse().join("");
 }
 
-const word = prompt("inserisci parola");
-
-const reverseWord = reverse(word);
-console.log(reverseWord);
+console.log(reverse("boolean"));
