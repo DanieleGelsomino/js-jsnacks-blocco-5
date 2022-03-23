@@ -20,7 +20,6 @@ function mixedArray() {
 }
 
 const arrayNumbersAndLetters = mixedArray();
-
 console.log(arrayNumbersAndLetters);
 
 /*
